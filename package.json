@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "insta-like",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,20 +7,20 @@
   "license": "AGPL-version-3.0",
   "private": false,
   "engines": {
-    "node": ">= 14.0.0",
-    "npm": ">= 6.0.0"
+    "node": ">= 22.11.0",
+    "npm": ">= 10.9.0"
   },
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/insta-like"
   },
   "bugs": "",
   "keywords": [],
   "author": {
     "name": "",
-    "email": "",
-    "url": ""
+    "email": "marcosokita181@gmail.com",
+    "url": "https://placecats/millie/300/150"
   },
   "contributors": [],
   "scripts": {
